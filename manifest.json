@@ -1,0 +1,19 @@
+{
+  "short_name": "T2A",
+  "name": "trackArr",
+  "description": "Erzeugt aus den eingegebenen Tracking Pixeln und Scripten ein Array das die Verwendung im Template erleichtert",
+  "version": "0.4",
+  "version_name": "0.4 alpha",
+  "manifest_version": 2,
+  "icons": {
+    "16": "trackArr16.png",
+    "48": "trackArr48.png",
+    "128": "trackArr128.png",
+    "512": "trackArr512.png"
+  },
+  "browser_action": {
+    "default_icon": "trackArrText.png",
+    "default_title": "trackArr",
+    "default_popup": "window.html"
+  }
+}
